@@ -112,7 +112,7 @@ ol {
     display: flex;
     gap: 40px;
     margin: 0 auto;
-     text-decoration: none;
+    text-decoration: none;
 }
 
 
@@ -828,11 +828,11 @@ img {
     fill: #ffffff;
 }
 
-.button-subscibe-text{
+.button-subscribe-text {
     margin-bottom: 16px;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.02em; 
+    letter-spacing: 0.02em;
     color: #ffffff;
-    
+
 }
