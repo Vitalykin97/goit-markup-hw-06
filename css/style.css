@@ -860,40 +860,40 @@ img {
     margin-bottom: 16px;
 }
 
-.button-subscribe-email{
-    min-width: 165px; 
-    display: flex; 
-    justify-content: center; 
-    align-items: center; 
+.button-subscribe-email {
+    min-width: 165px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;
     background-color: #4D5AE5;
-    border: none; 
-    border-radius: 4px; 
+    border: none;
+    border-radius: 4px;
 }
 
-.button-subscribe{
+.button-subscribe {
     margin-left: auto;
 }
 
-.subscribe-svg{
+.subscribe-svg {
     margin-left: 16px;
 }
 
-.modal{
+.modal {
     padding: 72px 24px 24px 24px;
 
 }
 
-.modal-text{
+.modal-text {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     text-align: center;
     letter-spacing: 0.02em;
     color: #2E2F42;
-    margin-bottom: 16px; 
+    margin-bottom: 16px;
 }
