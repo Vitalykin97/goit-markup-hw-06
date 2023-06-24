@@ -838,4 +838,5 @@ img {
 
 .form-subscribe{
     display: flex;
+    gap: 24px;
 }
