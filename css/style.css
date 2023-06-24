@@ -874,3 +874,7 @@ img {
     border: none; 
     border-radius: 4px; 
 }
+
+.button-subscribe{
+    margin-left: auto;
+}
