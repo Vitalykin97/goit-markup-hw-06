@@ -898,10 +898,6 @@ img {
     margin-bottom: 16px;
 }
 
-.style-modal {
-    margin-bottom: 8px;
-}
-
 .label-style {
     font-size: 12px;
     line-height: 1.17;
@@ -940,4 +936,8 @@ img {
 
 .modal-input:focus+.svg-label {
     fill: #4d5ae5;
+}
+
+.modal-field {
+    margin-bottom: 8px;
 }
