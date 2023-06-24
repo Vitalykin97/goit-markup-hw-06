@@ -942,3 +942,7 @@ img {
 .modal-input:focus+.svg-label {
     fill: #4d5ae5;
 }
+
+.modal-textarea{
+    margin-bottom: 16px
+}
