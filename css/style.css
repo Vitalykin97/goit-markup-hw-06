@@ -1003,3 +1003,7 @@ img {
 .modal-chackbox{
     margin-bottom: 24px;
 }
+
+.modal-link{
+    color: #4d5ae5; 
+}
