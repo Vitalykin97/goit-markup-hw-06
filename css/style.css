@@ -994,7 +994,7 @@ img {
     fill: transparent; 
 }
 
-.input-checkbox :checked + .label-checkbox  > .span-check{
+.input-checkbox:checked + .label-checkbox  > .span-check{
     background-color: #404bbf; 
     border: none; 
     fill: #F4F4FD;
