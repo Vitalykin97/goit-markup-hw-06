@@ -974,3 +974,10 @@ img {
 .textarea-modal:focus{
     border-color: #4D5AE5;
 }
+
+.label-checkbox{
+    font-size: 12px;
+    line-height: 1.17; 
+    letter-spacing: 0.04em;
+    color: #8e8f99; 
+}
