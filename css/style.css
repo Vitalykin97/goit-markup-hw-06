@@ -995,7 +995,7 @@ img {
 }
 
 .span-check:focus{
-    outline: #31d0aa;
+    outline: #e90000;
 }
 
 .input-checkbox:checked + .label-checkbox  > .span-check{
