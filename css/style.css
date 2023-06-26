@@ -994,16 +994,16 @@ img {
     fill: transparent; 
 }
 
-.span-check:focus{
-    outline: #e90000;
-}
 
 .input-checkbox:checked + .label-checkbox  > .span-check{
     background-color: #404bbf; 
     border: none; 
     fill: #F4F4FD;
-    color: #02d9ff;
 }
+
+.input-checkbox:focus + .label-checkbox > .span-check {
+    outline: 1px solid tomato;
+ }
 
 .modal-checkbox{
     margin-bottom: 24px;
