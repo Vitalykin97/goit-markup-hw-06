@@ -994,6 +994,10 @@ img {
     fill: transparent; 
 }
 
+.span-check:focus{
+    outline: #31d0aa;
+}
+
 .input-checkbox:checked + .label-checkbox  > .span-check{
     background-color: #404bbf; 
     border: none; 
